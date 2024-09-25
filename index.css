@@ -1,0 +1,20 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+table{
+    border:1px groove red;
+    margin: 20px;
+}
+td{
+    height:50px;
+    width:50px;
+}
+#white{
+    background: #f0d9b5;
+}
+#black{
+    background: #b58863;
+}
